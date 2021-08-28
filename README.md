@@ -1,5 +1,5 @@
 # wpAutoMessager
-PyAutoGui kütüphanesi kullanırak bir csv dosyasından alınan telefon numaralarına mesaj göndermek için hazırlanmıştır. Selenium kullanılmadan nasıl yapabilirim diye düşündüğüm ve sonrasında ortaya çıkan bir çözüm. 
+PyAutoGui kütüphanesi kullanırak bir csv dosyasından alınan telefon numaralarına mesaj göndermek için hazırlanmıştır. Selenium kullanmadan nasıl yapabilirim diye düşündüğüm ve sonrasında ortaya çıkan bir çözüm. 
 
 Kullanım Şekli
 -------------
